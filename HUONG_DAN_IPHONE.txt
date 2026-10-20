@@ -1,0 +1,10 @@
+BẾPTUẦN CHO IPHONE (PWA) — HƯỚNG DẪN CÀI ĐẶT
+
+1. Đưa toàn bộ NỘI DUNG thư mục này lên máy chủ web tĩnh HTTPS (ví dụ Netlify Drop hoặc GitHub Pages), giữ nguyên index.html, manifest.webmanifest, sw.js và thư mục icons.
+2. Mở đường link trang web bằng Safari trên iPhone.
+3. Nhấn nút CHIA SẺ (hình vuông có mũi tên hướng lên) → Thêm vào Màn hình chính (Add to Home Screen) → Thêm.
+4. Khởi động BếpTuần từ màn hình chính và mở ít nhất một lần khi có mạng để lưu dữ liệu ứng dụng dùng ngoại tuyến.
+
+SỬ DỤNG: Chọn ngày ở màn hình Thực đơn, thay món trưa/tối hoặc vào Chọn món để xem 75 công thức có định lượng & cách nấu. Ở tab Đi chợ, chọn ngày/cả tuần, tích món đã mua, hoặc chia sẻ danh sách sang Tin nhắn/Zalo.
+
+LƯU Ý: Nếu chỉ mở BepTuan_iPhone.html từ ứng dụng Tệp, giao diện và dữ liệu công thức vẫn chạy, nhưng chế độ ghim màn hình chính/PWA cần một địa chỉ web HTTPS. Nếu dùng nhiều máy, mỗi máy có bộ dữ liệu lưu riêng; có thể xuất/nhập file sao lưu JSON thủ công.
