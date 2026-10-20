@@ -1,0 +1,17 @@
+BẾPTUẦN 4.1 – 219 MÓN + DỰ TRÙ & CHI PHÍ THỰC TẾ
+================================================
+1. Mở ứng dụng đang dùng và vào Đi chợ → Sao lưu thực đơn để lưu một bản dự phòng.
+2. Mở repository https://github.com/Anvu2401/Beptuan
+3. Chọn Add file → Upload files; tải index.html, sw.js, manifest.webmanifest của bộ mới lên thư mục gốc và xác nhận thay thế các tệp cũ (hoặc mở từng tệp và chỉnh sửa nếu giao diện web yêu cầu).
+4. Hai file icon-192.png, icon-512.png cũng được đóng kèm nếu cần thay biểu tượng.
+5. Chọn Commit changes. Đợi GitHub Pages cập nhật và tải lại https://anvu2401.github.io/Beptuan/
+6. Trên iPhone, nếu ứng dụng cũ còn hiện, đóng app và mở lại, hoặc vào Safari tải lại trang sau khi Pages deploy xong.
+
+CÁCH GHI CHI PHÍ:
+- Ở tab Đi chợ: dự kiến = lượng nguyên liệu làm tròn x đơn giá/kg, lít, quả hoặc lát.
+- Đơn giá mặc định là ví dụ tham khảo cho Việt Nam, không phải giá trực tuyến/giá WinMart chính thức. Hãy điều chỉnh theo cửa hàng bạn mua.
+- Chọn Ghi tiền đã trả: Mua cả tuần hoặc Mua theo ngày. Trong chế độ theo ngày, nhập ở tab từng ngày; tab Cả tuần sẽ cộng số tiền thực trả các ngày.
+- Nhập tổng tiền trả cho từng nguyên liệu, để trống nếu chưa thanh toán. Giá 0 là miễn phí.
+- Chênh lệch chỉ được so sánh trên các nguyên liệu đã nhập giá thực tế để tránh sai lệch khi danh sách còn thiếu.
+- Xuất CSV hoặc sao lưu file JSON để lưu dữ liệu.
+- Dữ liệu giữ trên từng trình duyệt/thiết bị, không tự đồng bộ qua máy khác.

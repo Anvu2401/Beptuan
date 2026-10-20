@@ -1,7 +1,7 @@
 {
-  "name": "BếpTuần — Thực đơn gia đình",
+  "name": "BếpTuần 4.1 – 219 món & theo dõi chi phí",
   "short_name": "BếpTuần",
-  "description": "75 món Âu–Á, định lượng 4 người và danh sách đi chợ cho 7 ngày.",
+  "description": "219 món Âu–Á, lập thực đơn 4 người và dự trù, theo dõi chi phí đi chợ thực tế.",
   "lang": "vi",
   "start_url": "./index.html",
   "scope": "./",
@@ -10,16 +10,16 @@
   "theme_color": "#174d3b",
   "icons": [
     {
-      "src": "./icons/icon-192.png",
+      "src": "./icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "./icons/icon-512.png",
+      "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
